@@ -590,8 +590,8 @@ pkgconf                                                                       2.
 platformdirs                                                                  4.4.0                                 python                         
 polkit                                                                        127-3                                 alpm                           
 popt                                                                          1.19-2                                alpm                           
-ppsspp                                                                        1.19.3-3                              alpm                           
-ppsspp-assets                                                                 1.19.3-3                              alpm                           
+ppsspp                                                                        1.20.2-1                              alpm                           
+ppsspp-assets                                                                 1.20.2-1                              alpm                           
 procps-ng                                                                     4.0.6-1                               alpm                           
 prometheus-client                                                             0.24.1                                python                         
 propcache                                                                     0.4.1                                 python                         
