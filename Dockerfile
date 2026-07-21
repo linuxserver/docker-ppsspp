@@ -22,6 +22,9 @@ RUN \
   echo "**** install packages ****" && \
   pacman -Sy --noconfirm --needed \
     ppsspp${PPSSPP_VERSION:+=$PPSSPP_VERSION} && \
+  ln -s \
+    /usr/sbin/PPSSPPSDL \
+    /usr/sbin/PPSSPPQt && \
   echo "**** cleanup ****" && \
   rm -rf \
     /tmp/* \
